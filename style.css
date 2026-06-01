@@ -1,9 +1,20 @@
 body {
-    background-color: blue;
+    background-color: rgb(0, 0, 0);
     text-align: center;
+    background-image: url(file:///C:/Users/aluno/Downloads/sasuke%20meme.jfif);
+}
+img{
+    width: 250px;
 }
 
+.cartao{
+    width: 40%;
+    background-color: rgb(88, 87, 87);
+    margin: auto;
+    border-radius: 100px;
+    border-style: groove;
+}
 p {
-    color: rgb(145, 214, 26);
+    color: rgb(241, 241, 241);
 }
 a{text-decoration: none;}
